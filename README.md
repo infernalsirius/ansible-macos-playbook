@@ -112,3 +112,5 @@ Pages
 Keynote
 Numbers
 
+QuadroSync
+
